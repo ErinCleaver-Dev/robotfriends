@@ -30,6 +30,7 @@ body
 }
 
 .buttons {
+    gap: .5vh;
     background-color: grey;
     align-self: center;
     margin: 1vh;
@@ -37,9 +38,13 @@ body
     height: 28vh;
     width: 22vh;
     border-radius: 2vh;
-    grid-template-rows: auto;
+    grid-template-columns: repeat(4, 1fr);
 }
 .button {
     height: 5vh;
     width: 5vh;
+}
+
+.twoColuons {
+    grid-column: span 2;
 }
