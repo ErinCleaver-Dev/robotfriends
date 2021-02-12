@@ -1,5 +1,41 @@
-.contaner {
+body 
+{
+    margin: auto 0;
+    align-content: center;
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+}
+
+.calucator {
+    border-radius: 2vh;
     height: 40vh;
-    width: 20vh;
+    width: 22vh;
     background-color: rgb(201, 209, 209);
+    box-shadow: .2vh .2vh .5vh .2vh rgb(151, 161, 161, 2);
+    display: flex;
+    flex-direction: column;
+}
+
+#userInput {
+    border-radius: 2vh;
+    padding: 1vh;
+    height: 2vh;
+    width: 18vh;
+    margin: 1vh;
+    align-self: center;
+    background-color: rgb(139, 139, 139);
+    border: 2px solid rgb(56, 56, 56);
+    
+}
+
+.buttons {
+    background-color: grey;
+    align-self: center;
+    margin: 1vh;
+    padding: 1vh;
+    height: 28vh;
+    width: 18vh;
+    border-radius: 2vh;
+    grid-template-rows: auto;
 }
