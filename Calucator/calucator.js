@@ -7,7 +7,6 @@ var checkValue = true;
 var stringMathConecepts = ["add", "subtract", "divide", "mulutiply"];
 var mathfunctions = [add, subtract, divide, mulutiply];
 
-
 function newFunction() {
     return 0;
 }
