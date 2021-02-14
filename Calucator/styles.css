@@ -48,7 +48,7 @@ body
     padding: 1px;
     height: 5vh;
     width: 5vh;
-    border-radius: .5vh;
+    border-radius: 1.5vh;
     grid-template-columns: auto repeat(4, 1fr);
 }
 
