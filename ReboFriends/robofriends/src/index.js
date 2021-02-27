@@ -2,10 +2,8 @@ import React from 'react';
 import ReactDOM, { render } from 'react-dom';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
-import Card from './Card';
-import Apps from './Apps';
+import Apps from './containers/Apps';
 import 'tachyons';
-import { robots } from './robots';
 
 
 
