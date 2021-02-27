@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/erincleaver-grcc.github.io/websiteprojects.github.io/ReboFriends/robofriends/static/css/main.d2d99122.chunk.css",
+    "main.js": "/erincleaver-grcc.github.io/websiteprojects.github.io/ReboFriends/robofriends/static/js/main.327f410c.chunk.js",
+    "main.js.map": "/erincleaver-grcc.github.io/websiteprojects.github.io/ReboFriends/robofriends/static/js/main.327f410c.chunk.js.map",
+    "runtime-main.js": "/erincleaver-grcc.github.io/websiteprojects.github.io/ReboFriends/robofriends/static/js/runtime-main.fa608015.js",
+    "runtime-main.js.map": "/erincleaver-grcc.github.io/websiteprojects.github.io/ReboFriends/robofriends/static/js/runtime-main.fa608015.js.map",
+    "static/css/2.400ad86f.chunk.css": "/erincleaver-grcc.github.io/websiteprojects.github.io/ReboFriends/robofriends/static/css/2.400ad86f.chunk.css",
+    "static/js/2.bb30741a.chunk.js": "/erincleaver-grcc.github.io/websiteprojects.github.io/ReboFriends/robofriends/static/js/2.bb30741a.chunk.js",
+    "static/js/2.bb30741a.chunk.js.map": "/erincleaver-grcc.github.io/websiteprojects.github.io/ReboFriends/robofriends/static/js/2.bb30741a.chunk.js.map",
+    "static/js/3.8f524664.chunk.js": "/erincleaver-grcc.github.io/websiteprojects.github.io/ReboFriends/robofriends/static/js/3.8f524664.chunk.js",
+    "static/js/3.8f524664.chunk.js.map": "/erincleaver-grcc.github.io/websiteprojects.github.io/ReboFriends/robofriends/static/js/3.8f524664.chunk.js.map",
+    "index.html": "/erincleaver-grcc.github.io/websiteprojects.github.io/ReboFriends/robofriends/index.html",
+    "static/css/2.400ad86f.chunk.css.map": "/erincleaver-grcc.github.io/websiteprojects.github.io/ReboFriends/robofriends/static/css/2.400ad86f.chunk.css.map",
+    "static/css/main.d2d99122.chunk.css.map": "/erincleaver-grcc.github.io/websiteprojects.github.io/ReboFriends/robofriends/static/css/main.d2d99122.chunk.css.map",
+    "static/js/2.bb30741a.chunk.js.LICENSE.txt": "/erincleaver-grcc.github.io/websiteprojects.github.io/ReboFriends/robofriends/static/js/2.bb30741a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/erincleaver-grcc.github.io/websiteprojects.github.io/ReboFriends/robofriends/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa608015.js",
+    "static/css/2.400ad86f.chunk.css",
+    "static/js/2.bb30741a.chunk.js",
+    "static/css/main.d2d99122.chunk.css",
+    "static/js/main.327f410c.chunk.js"
+  ]
+}
